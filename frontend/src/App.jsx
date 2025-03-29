@@ -48,5 +48,3 @@ const App = () => {
 }
 
 export default App
-
-// watch from 03:47:29
