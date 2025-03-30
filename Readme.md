@@ -55,8 +55,8 @@ Ensure you have Node.js and MongoDB Atlas set up.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/chat-app.git
-cd chat-app
+git clone https://github.com/yourusername/chat-app.git](https://github.com/ayandas1234/Chat-App-Using-React--Tailwind--Zustand--Daisy-UI--Node-js--Express--MongoDB--Socket-io.git
+cd Chat-App-Using-React--Tailwind--Zustand--Daisy-UI--Node-js--Express--MongoDB--Socket-io
 ```
 
 ### Install Dependencies
