@@ -1,4 +1,4 @@
-![10](https://github.com/user-attachments/assets/3b89817b-d395-4501-b514-e4d0ac7774a5)# __Chat App 🚀💬__
+# __Chat App 🚀💬__
 
 👋 A real-time chat application built with modern web technologies, featuring instant messaging, user authentication, and image uploads. The app has a sleek UI and a seamless user experience.
 
