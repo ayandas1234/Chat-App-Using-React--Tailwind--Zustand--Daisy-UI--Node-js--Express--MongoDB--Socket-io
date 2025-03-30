@@ -111,6 +111,10 @@ npm run dev
 
 ## 🎥 video
 
+
+https://github.com/user-attachments/assets/8dc382e4-4438-470d-b184-f76e2fb97d8c
+
+
 ---
 
 ## 🔗 Connect with Me
