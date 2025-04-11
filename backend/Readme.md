@@ -11,3 +11,9 @@
 * ### [Cloudinary Overview and Example](https://chatgpt.com/share/67b6e5f2-2f08-8011-95a2-7640d332af4c)
 
 * ### [Install nodemon Dev Dependency](https://chatgpt.com/share/67b6e62b-052c-8011-ba19-c68fe9db4b32)
+
+* ### [Axios in React Explained](https://chatgpt.com/share/67f9389d-50ac-8011-b831-0cf484907241)
+  
+* ### [Zustand State Management Guide](https://chatgpt.com/share/67f938d1-efc4-8011-a06d-447f9661247c)
+  
+* ### [Install react-router-dom](https://chatgpt.com/share/67f9392d-79d8-8011-a9a1-c26f1964a73d)
